@@ -1,9 +1,9 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/YouTube-Streamer/total?style=for-the-badge)](https://github.com/afkarxyz/YouTube-Streamer/releases)
 
 # YouTube Streamer
-YouTube Streamer is a lightweight tool for simultaneously streaming to multiple YouTube channels without high computer specs, as it doesn't require video encoding.
+YouTube Streamer allows you to easily stream to multiple YouTube channels at once, without needing a powerful computer or video encoding.
 
-The program is portable and does not require admin permissions, suitable for running anywhere, even with low RDP specs. The important thing is high internet speed.
+This portable program runs without admin rights, making it perfect for use anywhere.
 
 ## Preview
 **Generate streaming files**
@@ -18,17 +18,17 @@ The program is portable and does not require admin permissions, suitable for run
 
 ![3WTY6vx7Fe](https://github.com/user-attachments/assets/4690bcf4-19a1-406f-a5af-ad292b076cba)
 
-**Function explanation**
+### Function explanation
 
 - If you leave the Rename field blank, it defaults to **“Streamer”**
 - If you leave the Loop field blank, it defaults to Unlimited
-- **Limited to 10 streams,** because the size per window is 480x350 with a 4x3 grid *(if you want more, please change it yourself in the .py code)*
+- **Limited to 10 streams,** because the size per window is 480x350 with a 4x4 grid *( if you want more, please change it yourself in the .py code )*
   
 ![image](https://github.com/user-attachments/assets/a0cda980-5d5e-480d-b6d0-f3f0d91e291f)
 
 
 ## Setup
-The .txt file, video file or ffmpeg.exe must be in the same directory, if you want to put it in a sub folder, it doesn't matter.
+The .txt file must be in the same directory as the video file or ffmpeg. The video file or ffmpeg.exe can be in a subfolder.
 
 1. The stream key must be put in a .txt file, for the name is up to you
 
