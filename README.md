@@ -18,7 +18,7 @@ This portable program runs without admin rights, making it perfect for use anywh
 
 ![3WTY6vx7Fe](https://github.com/user-attachments/assets/4690bcf4-19a1-406f-a5af-ad292b076cba)
 
-### Function explanation
+## Note
 
 - If you leave the Rename field blank, it defaults to **“Streamer”**
 - If you leave the Loop field blank, it defaults to Unlimited
