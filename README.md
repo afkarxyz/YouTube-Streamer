@@ -1,7 +1,8 @@
 [![GitHub All Releases](https://img.shields.io/github/downloads/afkarxyz/YouTube-Streamer/total?style=for-the-badge)](https://github.com/afkarxyz/YouTube-Streamer/releases)
 
-# YouTube Streamer
-YouTube Streamer allows you to easily stream to multiple YouTube channels at once, without needing a powerful computer or video encoding.
+## YouTube Streamer
+
+**YouTube Streamer** allows you to easily stream to multiple YouTube channels at once, without needing a powerful computer or video encoding.
 
 This portable program runs without admin rights, making it perfect for use anywhere.
 
