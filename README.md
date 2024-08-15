@@ -27,6 +27,12 @@ This portable program runs without admin rights, making it perfect for use anywh
   
 ![image](https://github.com/user-attachments/assets/a0cda980-5d5e-480d-b6d0-f3f0d91e291f)
 
+## YouTube Stream V2
+
+- In V2 you can set a loop based on time *(automatically detects each video duration and multiplies it to reach the duration you have set)*
+- You need **ffprobe.exe** to run V2
+
+![image](https://github.com/user-attachments/assets/84e5d8ec-e508-4bf5-a13b-9fd413f577d4)
 
 ## Setup
 The .txt file must be in the same directory as the video file or ffmpeg. The video file or ffmpeg.exe can be in a subfolder.
